@@ -1,0 +1,41 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "code": "NL",
+            "naam": "Nederland",
+            "hoofdstad": "Eindhoven",
+            "koning": "Willem-Alexander",
+            "oppervlakte": 41543,
+            "inwoners": 17084719,
+            "motto": "Ik zal handhaven"
+        }, {
+            "id": 2,
+            "code": "BE",
+            "naam": "Belgie",
+            "hoofdstad": "Brussel",
+            "koning": "Filip",
+            "oppervlakte": 30528,
+            "inwoners": 11491346,
+            "motto": "Eendracht maakt macht"
+        }, {
+            "id": 3,
+            "code": "EN",
+            "naam": "England",
+            "hoofdstad": "Londen",
+            "koning": "Elisabeth",
+            "oppervlakte": 130459,
+            "inwoners": 54990000,
+            "motto": "God save the queen"
+        }, {
+            "id": 4,
+            "code": "DE",
+            "naam": "Duitsland",
+            "hoofdstad": "Berlijn",
+            "koning": "Angela Merkel",
+            "oppervlakte": 357121,
+            "inwoners": 80594017,
+            "motto": "Eendracht en gerechtigheid en vrijheid"
+        }
+    ]
+}
